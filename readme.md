@@ -1,12 +1,19 @@
-this is read me
+# Horiseon Marketing Agency (Bootcamp Code Refactor Assignment) 
+By Sadie Sial
 
+## User Story
+```
+AS A marketing agency
+YOU GET a codebase that follows accessibility standards
+SO THAT your own site is optimized for search engines
+```
 
-# Bootcamp Code Refactor
+```
+This application now allows for accessibility standards to be met. 
+The code has also been consolidated and oraganized to properly function as intended.
+```
 
-description of app
-
-
-## Screenshot of app
+## Screenshot of App
 
 ![Screenshot](./assets/images/screenshot.png)
 
@@ -14,8 +21,7 @@ description of app
 
 [Deployed App](link)
 
-# bc-code-refactor
+[GitHub Repository](link)
 
-1. Description of your app
-2. Screenshot of your app
-3. Link to the deployed app
+---
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
