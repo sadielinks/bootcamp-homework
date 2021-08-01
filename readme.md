@@ -15,13 +15,13 @@ The code has also been consolidated and oraganized to properly function as inten
 
 ## Screenshot of App
 
-![Screenshot](./assets/images/screenshot.png)
+![Screenshot](./assets/images/screenshot.jpg)
 
 ## Links
 
-[Deployed App](link)
+[Deployed App](https://sadielinks.github.io/bootcamp-homework/)
 
-[GitHub Repository](link)
+[GitHub Repository](https://github.com/sadielinks/bootcamp-homework)
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
