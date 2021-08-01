@@ -89,17 +89,19 @@ aside {
     background-color: #2589bd;
 }
 
-/* Consolidated css selectors  follow semantic html */
+/* Consolidated css selectors to follow semantic html */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Continued consolidated of css selectors */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Continued consolidated of css selectors */
 .benefit img {
     display: block;
     margin: 10px auto;
